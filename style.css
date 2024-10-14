@@ -1,0 +1,170 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  font-family: "Archivo Black" "Poppins";
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  font-family: "Poppins";
+}
+.navbar-brand {
+  padding-left: 20px;
+  margin-left: 90px;
+}
+.nav-link {
+  letter-spacing: 2px;
+}
+.logo-image {
+  width: 7rem;
+}
+#search {
+  color: #ed017f;
+}
+#btn-service {
+  background-color: #ed017f;
+  color: aliceblue;
+}
+
+.container {
+  padding-top: 100px;
+}
+.title {
+  font-family: "Archivo Black";
+}
+h1 {
+  font-size: 65px;
+}
+#apply-online {
+  background-color: #ed017f;
+  color: aliceblue;
+}
+#loan {
+  background-color: #ffffff;
+  color: #ed017f;
+  border: #ed017f 2px solid;
+}
+.bg-1 {
+  width: 670px;
+}
+.column-illustration-hero img {
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -9999;
+}
+.il-hero {
+  padding-top: 75px;
+}
+.phone {
+  margin-left: 10px;
+}
+.title-group {
+  font-family: "poppins";
+}
+.title-word {
+  font-size: 35px;
+  font-weight: bold;
+}
+.paragraph-word {
+  font-size: 13px;
+  text-align: center;
+}
+.category {
+  margin-left: 150px;
+  height: 100vh;
+}
+
+.icon-exp {
+  width: 25px;
+}
+.card-title {
+  font-size: 20px;
+}
+.card-text {
+  font-size: 15px;
+}
+.carousel-item img {
+  height: 200px; /* Sesuaikan tinggi gambar sesuai kebutuhan Anda */
+  width: 200px;
+  margin-bottom: 50px;
+}
+.container h3 {
+  padding-bottom: 30px;
+  font-weight: bold;
+  font-family: "Poppins";
+}
+.business {
+  background-color: #fef9fc;
+  margin: 0;
+}
+.information {
+  padding-top: 0;
+  margin-top: -100px;
+  margin-left: -250px;
+}
+.form-control {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  width: 500px;
+}
+footer {
+  background-color: #f8f8f8;
+  padding: 20px 0;
+  font-family: Arial, sans-serif;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-around;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-section {
+  flex: 1;
+  margin: 0 15px;
+}
+
+.footer-section h4 {
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+.footer-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-section ul li {
+  margin-bottom: 10px;
+}
+
+.footer-section ul li a {
+  color: #333;
+  text-decoration: none;
+}
+
+.footer-section p {
+  margin-bottom: 20px;
+}
+
+.footer-section .social-media a {
+  color: #333;
+  margin-right: 10px;
+  font-size: 18px;
+}
+
+.footer-contact {
+  display: flex;
+  align-items: flex-start;
+  font-size: 18px;
+  color: #000000;
+  margin-left: 15px;
+}
+
+.footer-contact i {
+    align-items: flex-start;
+  margin-right: 5px;
+}
